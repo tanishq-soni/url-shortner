@@ -15,7 +15,7 @@ def main():
     os.mkdir('dist')
 
     with open('dist/CNAME', 'w') as f:
-        f.write('tshr.me')
+        f.write('tanishq-soni.github.io/url-shortner')
 
     for link in links:
         html_document = html.format(url=link['url'])
