@@ -1,4 +1,5 @@
 # URL-SHORTNER
+
 It is a simple URL-SHORTNER build for personal use using a short domain **fade.cf**.
 
 We just need to update the slug and trigger url in the JSON file and the Github Actions will automate the workflow.
